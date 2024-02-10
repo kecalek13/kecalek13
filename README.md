@@ -5,6 +5,7 @@ I am a hobby programmer!
 ## _I like languages:_
 - C++ 
 - JavaScript
+- Python
 
 ## My profile stats
 [![Kecalek13's GitHub stats](https://github-readme-stats.vercel.app/api?username=kecalek13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kecalek13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  |
