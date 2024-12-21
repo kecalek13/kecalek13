@@ -1,10 +1,9 @@
 # **👋 Hi, I´m kecalek13**
 
-Welcome in my profile,
-I am a hobby programmer!
+Welcome to my profile,
+I'm hobby programmer!
 ## _I like languages:_
-- C++ 
-- JavaScript
+- C/C++
 - Python
 
 ## My profile stats
