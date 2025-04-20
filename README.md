@@ -8,6 +8,7 @@ I'm hobby programmer!
 - Java
 
 **I'm also interested in hacking**
+<br>
 **And I like to learn new things**
 
 ## My profile stats
